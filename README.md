@@ -1,12 +1,14 @@
-# super-trunfo-c
+📘 super-trunfo-c
 
-Neste projeto, eu desenvolvi a parte inicial do jogo Super Trunfo – Países, utilizando a linguagem C.
+Neste projeto, desenvolvido no contexto de atividades da faculdade, foi implementada a etapa inicial do jogo Super Trunfo, utilizando a linguagem C.
 
-O objetivo do projeto foi praticar os fundamentos da linguagem, principalmente entrada e saída de dados, através do cadastro de cartas que representam cidades.
+O objetivo do trabalho foi aplicar os conhecimentos adquiridos em sala de aula, especialmente os fundamentos de programação, com foco em entrada e saída de dados, por meio do cadastro de cartas que representam cidades.
 
-🚀 O que eu fiz
+Nesta primeira etapa, o sistema permite o registro manual de informações como população, área, PIB e número de pontos turísticos, armazenando os dados em variáveis e exibindo-os de forma organizada no terminal.
 
-Neste primeiro nível (Novato), eu criei um sistema simples de cadastro de cartas, onde o usuário informa manualmente os dados de duas cidades pelo terminal.
+🚀 O que foi desenvolvido
+
+Neste primeiro nível (Novato), foi criado um sistema simples de cadastro de cartas, no qual o usuário informa manualmente os dados de duas cidades via terminal.
 
 Cada carta contém as seguintes informações:
 
@@ -24,22 +26,9 @@ A01
 B02
 C03
 ⚙️ Funcionalidades implementadas
-Entrada de dados via terminal usando scanf
+Entrada de dados via terminal utilizando scanf
 Armazenamento das informações em variáveis
-Exibição dos dados de cada carta de forma organizada usando printf
+Exibição dos dados de cada carta de forma organizada utilizando printf
 📤 Resultado
 
-Após o cadastro, o sistema exibe todas as informações da carta na tela, separando cada atributo em uma linha para facilitar a leitura.
-
-🧠 O que eu aprendi com esse projeto
-
-Com esse desafio, pratiquei conceitos importantes da linguagem C, como:
-
-Declaração de variáveis
-Tipos de dados (int, float, char, char[])
-Entrada de dados com scanf
-Saída de dados com printf
-Organização de lógica de programação
-📌 Conclusão
-
-Esse foi meu primeiro passo no desenvolvimento do jogo Super Trunfo em C, focando na base do sistema de cadastro das cartas.
+Após o cadastro, o sistema exibe todas as informações da carta na tela, com cada atributo apresentado em uma linha separada, facilitando a leitura e organização dos dados.
